@@ -1,0 +1,52 @@
+body{
+ background-image: url(../photos/R.jpg);
+ background-attachment: fixed;
+ background-position: center;
+ background-size: contain;
+}
+h1{
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+}
+#logo{ font-size: 120px;
+    text-align: center;
+ }
+ .u img{
+    float: right;
+    
+ }
+.one img{
+    width: 30%;
+}
+.two img{
+    width: 30%;
+}
+.three img{
+    width: 30%;
+}
+.four img{
+    width: 30%;
+}
+.five img{
+    width: 30%;
+}
+.six img{
+    width: 30%;
+}
+.link a{
+    text-align: left;
+    border: 2px solid rgb(40, 70, 42); 
+    border-radius: 5px;
+    padding: 10px;
+}
+.link p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+a:hover{
+    color: black;
+    background-color: rgb(75, 99, 75);
+    transition: 2s;
+}
